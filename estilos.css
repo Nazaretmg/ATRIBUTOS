@@ -1,0 +1,19 @@
+p[class="atributo"]{
+	background: grey;
+}
+
+h2,p[class|="borde"]{
+	color: red;
+}
+
+img[class^="filo"]{
+	border: 3px solid black;
+}
+
+p[class$="naranja"]{
+	background: black;
+}
+
+img[src*="jpg"]{
+	height: 100px;
+}
